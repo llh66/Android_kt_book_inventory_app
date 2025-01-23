@@ -1,9 +1,6 @@
-# Assignment 2: Building a Bookstore Inventory Management Android App
-Lihua Liu, Advanced Android Development fall 2024
-## Setup instruction
-1. Unzip the project file and open the project with Android Studio
-2. Wait for the setting-up by Android Studio
-3. The app should run after pressing the 'run app' button in Android Studio
+# Bookstore Inventory Management Android App
+Android app with Room DB, Query, and Recycler View. It contains CRUD operations, input validation, and sorting to manage inventory.
+
 ## Implemented basic CRUD operation
 ### 1. Add a New Book
 - User can input details for a new book (title, author, price, quantity) after clicking the plus sign ('+') on the support bar
